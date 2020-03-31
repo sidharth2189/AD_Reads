@@ -1,8 +1,8 @@
 # AD_Reads
 Links to publications on autonomous driving development
 
-[A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles]
-(https://arxiv.org/pdf/1604.07446.pdf)
+A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles
+[https://arxiv.org/pdf/1604.07446.pdf]
 
 [Task-Motion Planning for Safe and Efficient Urban Driving]
 (https://arxiv.org/pdf/2003.03807.pdf)
