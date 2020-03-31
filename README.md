@@ -9,5 +9,4 @@ Links to publications on autonomous driving development
 
 [Autonomous Driving at Intersections: A Critical-Turning-Point Approach for Left Turns](https://arxiv.org/pdf/2003.02409.pdf)
 
-[A UNIFIED APPROACH TO DRIVER ASSISTANCE SYSTEMS BASED ON
-ARTIFICIAL POTENTIAL FIELDS](https://pdfs.semanticscholar.org/98a0/9fdf4a235b73713a2702799f13f3cd587df8.pdf)
+[A unified approach to driver assistance systems based on artificial potential fields](https://pdfs.semanticscholar.org/98a0/9fdf4a235b73713a2702799f13f3cd587df8.pdf)
