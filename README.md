@@ -1,7 +1,7 @@
 # AD_Reads
 Links to publications on autonomous driving development
 
-### [Motion Planing](https://en.wikipedia.org/wiki/Motion_planning):
+### [Motion Planning](https://en.wikipedia.org/wiki/Motion_planning):
 
 [1. A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)
 
