@@ -1,7 +1,7 @@
 # AD_Reads
 Links to publications on autonomous driving development
 
-### Motion Planing:
+### [Motion Planing](https://en.wikipedia.org/wiki/Motion_planning):
 
 [1. A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)
 
@@ -18,6 +18,8 @@ Links to publications on autonomous driving development
 [7. Computing the Shortest Path: A∗ Search Meets Graph Theory](https://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/GH05.pdf)
 
 [8. Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf)
+
+[9. Route Planning in Transportation Networks](https://arxiv.org/pdf/1504.05140.pdf)
 
 ### Data flow
 ![Image](data_flow.png)
