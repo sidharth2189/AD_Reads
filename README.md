@@ -3,8 +3,6 @@ Links to publications on autonomous driving development
 
 ### Motion Planing:
 
-![Image](data_flow.png)
-
 [1. A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)
 
 [2. Task-Motion Planning for Safe and Efficient Urban Driving](https://arxiv.org/pdf/2003.03807.pdf)
@@ -16,3 +14,6 @@ Links to publications on autonomous driving development
 [5. A unified approach to driver assistance systems based on artificial potential fields](https://pdfs.semanticscholar.org/98a0/9fdf4a235b73713a2702799f13f3cd587df8.pdf)
 
 [6. Motion Planning for Nonholonomic Vehicles: An Introduction](https://hal.inria.fr/inria-00548415/document)
+
+### Data flow
+![Image](data_flow.png)
