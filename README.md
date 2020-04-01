@@ -15,5 +15,9 @@ Links to publications on autonomous driving development
 
 [6. Motion Planning for Nonholonomic Vehicles: An Introduction](https://hal.inria.fr/inria-00548415/document)
 
+[7. Computing the Shortest Path: A∗ Search Meets Graph Theory](https://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/GH05.pdf)
+
+[8. Contraction Hierarchies: Faster and Simpler Hierarchical Routing in Road Networks](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf)
+
 ### Data flow
 ![Image](data_flow.png)
