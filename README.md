@@ -21,5 +21,7 @@ Links to publications on autonomous driving development
 
 [9. Route Planning in Transportation Networks](https://arxiv.org/pdf/1504.05140.pdf)
 
+[10. Probabilistic MDP-Behavior Planning for Cars](https://www.researchgate.net/publication/256079154_Probabilistic_MDP-Behavior_Planning_for_Cars)
+
 ### Data flow
 ![Image](data_flow.png)
